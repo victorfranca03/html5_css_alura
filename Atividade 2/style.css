@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.texto-destaque1{
+    color: blue;
+    margin: 10px;
+    border: 20px solid black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.texto-destaque2{
+    color: red;
+    margin: 10px;
+    border: 20px solid pink;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.texto-destaque3{
+    color: darkgreen;
+    margin: 10px;
+    border: 20px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.texto-destaque4{
+    color: darkmagenta;
+    margin: 10px;
+    border: 20px solid gold;
+    border-radius: 10px;
+
+}
+
+.titulo-blog{
+    
+    color:gray;
+}
+
+.box-text{
+
+}
