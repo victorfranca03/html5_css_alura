@@ -38,3 +38,9 @@ body {
     font-size: 24px;
     font-family: 'MontSerrat, sans-serif';
 }
+
+.apresentacao__links{
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid white;
+}
